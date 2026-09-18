@@ -1,2 +1,2 @@
 # Assignment 1
-my name is: MAIMUNA NAUTANDA
+my name is: MAIMUNA NABUTANDA
